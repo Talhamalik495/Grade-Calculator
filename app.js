@@ -10,13 +10,13 @@ else if (grade > 70 && grade <= 80) {
     document.write("Grade your A")
 }
 else if (grade > 60 && grade <= 70) {
-    document.write("Grade yourB")
+    document.write("Grade your B")
 }
 else if (grade > 50 && grade <= 60) {
     document.write("Grade yourC")
 }
 else if (grade > 40 && grade <= 50) {
-    document.write("Grade yourD")
+    document.write("Grade your D")
 }
 else {
     document.write("Grade yourFail")
